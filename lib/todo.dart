@@ -15,7 +15,7 @@ class ToDo {
       ToDo(id: '02', todoText: 'Make kinilaw.', isDone: true),
       ToDo(
         id: '03',
-        todoText: 'Call a friend.',
+        todoText: 'Call a friend an eat kinilaw.',
       ),
       ToDo(
         id: '04',
